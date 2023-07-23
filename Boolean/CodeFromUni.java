@@ -1,9 +1,9 @@
 package Boolean;
 
-public class CodeFromUni {
+// public class CodeFromUni {
 
 
-    public static void main(String[] args) {
+    // public static void main(String[] args) {
     //     int x = 50;
     //     int y = 90;
     //     int result = 0;
